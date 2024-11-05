@@ -44,8 +44,8 @@ Currently, I am undergoing training in Data Science and AI at AccioJob. I am pas
 - Interactive dashboard capabilities.
 
 ### Dashboard Screenshots
-![Dashboard Screenshot 1](images/img1.png)
-![Dashboard Screenshot 2](images/img2.png)
+![Dashboard Screenshot 1](images/screenshot1.png)
+![Dashboard Screenshot 2](images/screenshot2.png)
 
 ## Contact
 
