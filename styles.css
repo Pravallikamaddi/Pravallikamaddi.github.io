@@ -13,15 +13,15 @@ body {
     line-height: 1.6;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; /* Center align items */
 }
 
 /* Header */
 header {
     text-align: center;
     padding: 2rem;
-    background-color: black; /* Header background color */
-    color: white; /* Header text color */
+    background-color: transparent; /* Remove header background color */
+    color: black; /* Header text color */
     width: 100%;
 }
 
@@ -43,6 +43,7 @@ section {
     margin: 1.5rem 0; /* Margin to separate sections */
     border-radius: 0; /* Remove border-radius */
     box-shadow: none; /* Remove box shadow */
+    text-align: center; /* Center align text within sections */
 }
 
 section h2 {
