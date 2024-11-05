@@ -1,0 +1,91 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Body Styling */
+body {
+    color: #333;
+    background-color: #f0f4f8;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding: 2rem;
+    background-color: #007bff;
+    color: white;
+    width: 100%;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+header p {
+    font-size: 1.1rem;
+}
+
+/* Sections */
+section {
+    width: 90%;
+    max-width: 800px;
+    padding: 1.5rem;
+    background-color: #ffffff;
+    margin: 1.5rem 0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    color: #007bff;
+    margin-bottom: 1rem;
+}
+
+section ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+section li {
+    margin-bottom: 0.5rem;
+}
+
+section a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section a:hover {
+    text-decoration: underline;
+}
+
+/* Icons */
+section i {
+    margin-right: 0.5rem;
+    color: #007bff;
+}
+
+#contact i {
+    margin-right: 8px;
+}
+
+/* Footer */
+footer {
+    margin-top: 2rem;
+    padding: 1rem;
+    text-align: center;
+    background-color: #f0f4f8;
+    width: 100%;
+    font-size: 0.9rem;
+    color: #333;
+}
