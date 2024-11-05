@@ -14,6 +14,11 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    body {
+    color: black !important; /* Use !important to enforce the style */
+    background-color: white !important;
+}
+
 }
 
 /* Header */
