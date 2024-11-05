@@ -8,8 +8,8 @@
 
 /* Body Styling */
 body {
-    color: #333;
-    background-color: #f0f4f8;
+    color: black; /* Change text color to black */
+    background-color: white; /* Change background to white */
     line-height: 1.6;
     display: flex;
     flex-direction: column;
@@ -20,8 +20,8 @@ body {
 header {
     text-align: center;
     padding: 2rem;
-    background-color: #007bff;
-    color: white;
+    background-color: #007bff; /* Header color remains blue */
+    color: white; /* Header text color remains white */
     width: 100%;
 }
 
@@ -39,14 +39,14 @@ section {
     width: 90%;
     max-width: 800px;
     padding: 1.5rem;
-    background-color: #ffffff;
+    background-color: white; /* Keep section background white */
     margin: 1.5rem 0;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 section h2 {
-    color: #007bff;
+    color: #007bff; /* Keep section headers blue */
     margin-bottom: 1rem;
 }
 
@@ -60,19 +60,19 @@ section li {
 }
 
 section a {
-    color: #007bff;
+    color: #007bff; /* Links remain blue */
     text-decoration: none;
     font-weight: bold;
 }
 
 section a:hover {
-    text-decoration: underline;
+    text-decoration: underline; /* Underline on hover for links */
 }
 
 /* Icons */
 section i {
     margin-right: 0.5rem;
-    color: #007bff;
+    color: #007bff; /* Icon color remains blue */
 }
 
 #contact i {
@@ -84,8 +84,8 @@ footer {
     margin-top: 2rem;
     padding: 1rem;
     text-align: center;
-    background-color: #f0f4f8;
+    background-color: white; /* Footer background white */
     width: 100%;
     font-size: 0.9rem;
-    color: #333;
+    color: black; /* Footer text color black */
 }
