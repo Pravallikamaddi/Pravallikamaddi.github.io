@@ -27,8 +27,8 @@ Currently, I am undergoing training in Data Science and AI at AccioJob. I am pas
 - **Programming, DSA Using Python** - [NPTEL](https://acrobat.adobe.com/id/urn:aaid:sc:ap:e08feaaa-f090-475b-8c02-f2fef5709a1b)
 - **Introduction to IoT** - [Cisco](https://acrobat.adobe.com/id/urn:aaid:sc:ap:75076794-067d-497c-9af6-4174c85aa3e0)
 - **Essentials in C Programming** - [Cisco](https://acrobat.adobe.com/id/urn:aaid:sc:ap:ea4b79ec-145c-4ed0-a124-51075f8182d2)
-- **Python** - [Udemy](https://www.udemy.com)
-- **Web Development** - [Udemy](https://www.udemy.com)
+- **Python** - [Udemy]
+- **Web Development** - [Udemy]
 - **Data Science & AI Trainee** - NSDC certification upon completion
 
 ## Projects
